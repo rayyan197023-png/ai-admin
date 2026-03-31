@@ -1,7 +1,6 @@
 export const metadata = {
-  name: "إدارة AI",
+  title: "إدارة AI",
   manifest: "/manifest.json",
-  themeColor: "#0c1020",
 }
 
 export default function RootLayout({ children }) {
