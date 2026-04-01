@@ -1,5 +1,5 @@
-import AILabTab from '../AILabTab_v17_clean'
+import AILearningEngine from '@/components/AILearningEngine_standalone'
 
 export default function Home() {
-  return <AILabTab />
+  return <AILearningEngine />
 }
