@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "إدارة AI",
-  manifest: "/manifest.json",
+  title: 'AI Admin - Learning Engine',
+  description: 'AI Self-Learning Engine for Tadawul+',
 }
 
 export default function RootLayout({ children }) {
